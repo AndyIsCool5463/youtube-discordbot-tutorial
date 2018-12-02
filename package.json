@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "0.0.1",
+  "description": "a discord bot for youtube",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyIsCool5463/youtube-discordbot-tutorial.git"
+  },
+  "author": "AndyIsCool5463",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyIsCool5463/youtube-discordbot-tutorial/issues"
+  },
+  "homepage": "https://github.com/AndyIsCool5463/youtube-discordbot-tutorial#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
